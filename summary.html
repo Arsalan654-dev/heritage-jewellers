@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><title>WebSuck — Download Summary</title>
+<style>
+:root{color-scheme:light dark}
+*{box-sizing:border-box}
+body{margin:0;font:15px/1.55 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#0f1115;color:#e7e9ee;padding:32px}
+.wrap{max-width:860px;margin:0 auto}
+h1{font-size:22px;margin:0 0 4px}
+.src{color:#8b93a7;word-break:break-all;margin:0 0 6px}
+.eng{color:#6ee7b7;font-size:13px;margin:0 0 24px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:12px;margin-bottom:28px}
+.s{background:#171a21;border:1px solid #262b36;border-radius:12px;padding:14px 16px}
+.s .v{font-size:20px;font-weight:600}
+.s .v span{font-size:12px;color:#8b93a7;font-weight:400}
+.s .l{font-size:12px;color:#8b93a7;margin-top:2px}
+h2{font-size:14px;text-transform:uppercase;letter-spacing:.06em;color:#8b93a7;margin:0 0 10px}
+ul{list-style:none;padding:0;margin:0;columns:2;column-gap:24px}
+li{margin:0 0 6px;break-inside:avoid}
+a{color:#7dd3fc;text-decoration:none}
+a:hover{text-decoration:underline}
+.more{color:#8b93a7}
+</style><link href="assets/css/google-fonts-local.css" rel="stylesheet"/><link href="assets/css/custom-fix.css" rel="stylesheet"/><script src="assets/js/custom-fix.js" defer></script><script>
+(function(){
+var isOpen=false;
+function buildDrawer(){
+  if(document.getElementById('hj-nav-drawer'))return;
+  var overlay=document.createElement('div');
+  overlay.id='hj-nav-overlay';
+  document.body.appendChild(overlay);
+  var menuLinks='';
+  var mbNav=document.getElementById('menu-mb__ul');
+  if(mbNav){
+    var items=mbNav.querySelectorAll(':scope > li');
+    items.forEach(function(li){
+      var a=li.querySelector(':scope > a');
+      if(!a)return;
+      var href=a.getAttribute('href')||'#';
+      var txt=a.textContent.trim();
+      var subUl=li.querySelector('.t4s-sub-menu');
+      if(subUl){
+        var subItems='';
+        subUl.querySelectorAll(':scope > li').forEach(function(sli){
+          var sa=sli.querySelector('a');
+          if(sa)subItems+='<li><a href="'+sa.getAttribute('href')+'">'+sa.textContent.trim()+'</a></li>';
+        });
+        menuLinks+='<li class="hj-has-sub"><a href="'+href+'">'+txt+' <span class="hj-sub-toggle">&#9662;</span></a><ul class="hj-sub-menu">'+subItems+'</ul></li>';
+      }else{
+        menuLinks+='<li><a href="'+href+'">'+txt+'</a></li>';
+      }
+    });
+  }
+  var catLinks='';
+  var mbCat=document.getElementById('shopify-mb_cat');
+  if(mbCat){
+    mbCat.querySelectorAll('a').forEach(function(a){
+      catLinks+='<li><a href="'+a.getAttribute('href')+'">'+a.textContent.trim()+'</a></li>';
+    });
+  }
+  var drawer=document.createElement('div');
+  drawer.id='hj-nav-drawer';
+  drawer.innerHTML='<div class="hj-drawer-header"><h3>Menu</h3><button class="hj-close-btn" aria-label="Close menu">&times;</button></div><div class="hj-drawer-tabs"><div class="hj-drawer-tab active" data-tab="menu">Menu</div><div class="hj-drawer-tab" data-tab="cat">Categories</div></div><div class="hj-tab-content" data-tab="menu"><ul class="hj-nav-list">'+menuLinks+'</ul></div><div class="hj-tab-content" data-tab="cat" style="display:none"><ul class="hj-nav-list">'+catLinks+'</ul></div>';
+  document.body.appendChild(drawer);
+  drawer.querySelectorAll('.hj-sub-toggle').forEach(function(tog){
+    tog.parentElement.addEventListener('click',function(e){
+      e.preventDefault();
+      e.stopPropagation();
+      var sub=tog.closest('li').querySelector('.hj-sub-menu');
+      if(sub)sub.classList.toggle('open');
+    });
+  });
+  drawer.querySelectorAll('.hj-drawer-tab').forEach(function(tab){
+    tab.addEventListener('click',function(){
+      drawer.querySelectorAll('.hj-drawer-tab').forEach(function(t){t.classList.remove('active');});
+      tab.classList.add('active');
+      var name=tab.getAttribute('data-tab');
+      drawer.querySelectorAll('.hj-tab-content').forEach(function(c){c.style.display='none';});
+      var target=drawer.querySelector('.hj-tab-content[data-tab="'+name+'"]');
+      if(target)target.style.display='block';
+    });
+  });
+  drawer.querySelector('.hj-close-btn').addEventListener('click',function(e){e.stopPropagation();closeDrawer();});
+  overlay.addEventListener('click',closeDrawer);
+}
+function openDrawer(){
+  buildDrawer();
+  isOpen=true;
+  var d=document.getElementById('hj-nav-drawer');
+  var o=document.getElementById('hj-nav-overlay');
+  if(d)d.classList.add('open');
+  if(o)o.classList.add('active');
+  document.body.classList.add('hj-nav-open');
+}
+function closeDrawer(){
+  isOpen=false;
+  var d=document.getElementById('hj-nav-drawer');
+  var o=document.getElementById('hj-nav-overlay');
+  if(d)d.classList.remove('open');
+  if(o)o.classList.remove('active');
+  document.body.classList.remove('hj-nav-open');
+}
+document.addEventListener('click',function(e){
+  if(e.target.closest('.t4s-push-menu-btn')||e.target.closest('[data-drawer-options]')){
+    e.preventDefault();
+    e.stopPropagation();
+    openDrawer();
+    return false;
+  }
+},true);
+document.addEventListener('keydown',function(e){
+  if((e.key==='Escape'||e.keyCode===27)&&isOpen)closeDrawer();
+});
+})();
+</script>
+<script>function loadImageT4s(_this){_this.classList.add("lazyloadt4sed")}</script>
+</head><body><div class="wrap">
+<h1>✅ Download complete</h1>
+<p class="src">Source: https://heritagejewels.com.pk/</p>
+<p class="eng">Engines: playwright · Flatten-CSS: on · 2282 assets localized</p>
+<div class="grid"><div class="s"><div class="v">100</div><div class="l">Pages</div></div><div class="s"><div class="v">2173 <span>(108.3 MB)</span></div><div class="l">Images</div></div><div class="s"><div class="v">109 <span>(3.6 MB)</span></div><div class="l">Fonts</div></div><div class="s"><div class="v">6.8 MB</div><div class="l">style.css</div></div><div class="s"><div class="v">32.3 MB</div><div class="l">script.js</div></div><div class="s"><div class="v">0</div><div class="l">Errors</div></div></div>
+<h2>Pages (100)</h2>
+<ul><li><a href="2-carat-lab-grown-diamond-ring-lgb001.html">2-carat-lab-grown-diamond-ring-lgb001.html</a></li><li><a href="925-sterling-silver-floral-jade-pearl-bangle.html">925-sterling-silver-floral-jade-pearl-bangle.html</a></li><li><a href="about-us.html">about-us.html</a></li><li><a href="account.html">account.html</a></li><li><a href="after-sale-service.html">after-sale-service.html</a></li><li><a href="all.html">all.html</a></li><li><a href="bands.html">bands.html</a></li><li><a href="bangle-b588.html">bangle-b588.html</a></li><li><a href="bangle-b589.html">bangle-b589.html</a></li><li><a href="bangle-b594.html">bangle-b594.html</a></li><li><a href="bangle-b595.html">bangle-b595.html</a></li><li><a href="bangle-b596.html">bangle-b596.html</a></li><li><a href="bangle-b604.html">bangle-b604.html</a></li><li><a href="bangle-b605.html">bangle-b605.html</a></li><li><a href="bangle-b606.html">bangle-b606.html</a></li><li><a href="bangle-b607.html">bangle-b607.html</a></li><li><a href="bangle-b608.html">bangle-b608.html</a></li><li><a href="bangle-in-cubic-zircons-15.html">bangle-in-cubic-zircons-15.html</a></li><li><a href="bangle-set-b609.html">bangle-set-b609.html</a></li><li><a href="bangles-amp-bracelets-8a010e.html">bangles-amp-bracelets-8a010e.html</a></li><li><a href="bangles-amp-bracelets.html">bangles-amp-bracelets.html</a></li><li><a href="best-sellers.html">best-sellers.html</a></li><li><a href="bridal-jewelery.html">bridal-jewelery.html</a></li><li><a href="calligraphy-pendants.html">calligraphy-pendants.html</a></li><li><a href="cart.html">cart.html</a></li><li><a href="colors-of-joy.html">colors-of-joy.html</a></li><li><a href="contact-us.html">contact-us.html</a></li><li><a href="custom-jewelery.html">custom-jewelery.html</a></li><li><a href="diamond-bangles-bracelets.html">diamond-bangles-bracelets.html</a></li><li><a href="diamond-collection.html">diamond-collection.html</a></li><li><a href="diamond-gents-bands.html">diamond-gents-bands.html</a></li><li><a href="diamond-nose-pins.html">diamond-nose-pins.html</a></li><li><a href="diamond-rings.html">diamond-rings.html</a></li><li><a href="diamond-tops-earrings.html">diamond-tops-earrings.html</a></li><li><a href="dreamy.html">dreamy.html</a></li><li><a href="earrings-e1391.html">earrings-e1391.html</a></li><li><a href="earrings-e1392.html">earrings-e1392.html</a></li><li><a href="earrings-e1396.html">earrings-e1396.html</a></li><li><a href="earrings-e1397.html">earrings-e1397.html</a></li><li><a href="earrings-e1398.html">earrings-e1398.html</a></li><li><a href="earrings-e1401.html">earrings-e1401.html</a></li><li><a href="earrings-e1402.html">earrings-e1402.html</a></li><li><a href="earrings-e1403.html">earrings-e1403.html</a></li><li><a href="earrings-e1404.html">earrings-e1404.html</a></li><li><a href="earrings-e1405.html">earrings-e1405.html</a></li><li><a href="earrings-e1540.html">earrings-e1540.html</a></li><li><a href="earrings-e1541.html">earrings-e1541.html</a></li><li><a href="earrings-e1542.html">earrings-e1542.html</a></li><li><a href="earrings-e1543.html">earrings-e1543.html</a></li><li><a href="earrings-e1545.html">earrings-e1545.html</a></li><li><a href="earrings-e1546.html">earrings-e1546.html</a></li><li><a href="earrings-e1547-1.html">earrings-e1547-1.html</a></li><li><a href="earrings-e1547.html">earrings-e1547.html</a></li><li><a href="faqs.html">faqs.html</a></li><li><a href="frontpage.html">frontpage.html</a></li><li><a href="gents-bracelets.html">gents-bracelets.html</a></li><li><a href="gents-chains.html">gents-chains.html</a></li><li><a href="gold-diamond-jewelry.html">gold-diamond-jewelry.html</a></li><li><a href="gold-rings.html">gold-rings.html</a></li><li><a href="how-to-order.html">how-to-order.html</a></li><li><a href="index.html">index.html</a></li><li><a href="jewelry-care.html">jewelry-care.html</a></li><li><a href="jhumar-amp-mathapatti.html">jhumar-amp-mathapatti.html</a></li><li><a href="lab-grown-diamonds.html">lab-grown-diamonds.html</a></li><li><a href="login.html">login.html</a></li><li><a href="mens-cufflinks.html">mens-cufflinks.html</a></li><li><a href="mens-jewelry.html">mens-jewelry.html</a></li><li><a href="moissanite-diamond-jewelry.html">moissanite-diamond-jewelry.html</a></li><li><a href="moissanite-diamond-ring-mdr048.html">moissanite-diamond-ring-mdr048.html</a></li><li><a href="monthly-sale.html">monthly-sale.html</a></li><li><a href="pendant-set-2.html">pendant-set-2.html</a></li><li><a href="pendant-set-ls662.html">pendant-set-ls662.html</a></li><li><a href="pendant-set-ls697.html">pendant-set-ls697.html</a></li><li><a href="pendant-set-ls742.html">pendant-set-ls742.html</a></li><li><a href="pendants-malas.html">pendants-malas.html</a></li><li><a href="pendants.html">pendants.html</a></li><li><a href="precious-gems-collection-62ba07.html">precious-gems-collection-62ba07.html</a></li><li><a href="precious-gems-collection.html">precious-gems-collection.html</a></li><li><a href="privacy-policy.html">privacy-policy.html</a></li><li><a href="refund-policy.html">refund-policy.html</a></li><li><a href="register.html">register.html</a></li><li><a href="rings.html">rings.html</a></li><li><a href="search-07061c.html">search-07061c.html</a></li><li><a href="search.html">search.html</a></li><li><a href="sets-necklace-sets.html">sets-necklace-sets.html</a></li><li><a href="sets-pendant-sets.html">sets-pendant-sets.html</a></li><li><a href="silver-jewelry.html">silver-jewelry.html</a></li><li><a href="store-locator.html">store-locator.html</a></li><li><a href="summer-hues.html">summer-hues.html</a></li><li><a href="terms-of-service.html">terms-of-service.html</a></li><li><a href="tops-amp-earrings.html">tops-amp-earrings.html</a></li><li><a href="tops-in-cubic-zircons-41.html">tops-in-cubic-zircons-41.html</a></li><li><a href="tops-in-multi-color-stones-10.html">tops-in-multi-color-stones-10.html</a></li><li><a href="tops-t451.html">tops-t451.html</a></li><li><a href="tops-t452.html">tops-t452.html</a></li><li><a href="tops-t497.html">tops-t497.html</a></li><li><a href="tops-t607.html">tops-t607.html</a></li><li><a href="tops-t709.html">tops-t709.html</a></li><li><a href="traditional-multi-color-stone-earrnigs.html">traditional-multi-color-stone-earrnigs.html</a></li><li><a href="zodiac-sign-pendant.html">zodiac-sign-pendant.html</a></li></ul>
+</div><script>
+(function(){
+function killThemeDrawers(){
+  document.querySelectorAll('.t4s-drawer,.t4s-close-overlay,.t4s-drawer-menu__close,.t4s-drawer__close,[aria-label="Close menu"],[aria-label="Close Cart"],[aria-label="Close sidebar"],[aria-label="Close Search"]').forEach(function(el){
+    el.style.cssText='display:none!important;opacity:0!important;visibility:hidden!important;pointer-events:none!important;z-index:-9999!important;width:0!important;height:0!important;overflow:hidden!important;position:fixed!important;left:-9999px!important;top:-9999px!important';
+  });
+  document.body.style.overflow='auto';
+  document.body.classList.remove('t4s-lock-scroll','is--opend-drawer');
+}
+killThemeDrawers();
+var obs=new MutationObserver(function(){killThemeDrawers()});
+obs.observe(document.body,{childList:true,subtree:true,attributes:true,attributeFilter:['class','style','aria-hidden']});
+})();
+</script>
+</body></html>

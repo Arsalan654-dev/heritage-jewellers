@@ -1,0 +1,111 @@
+@keyframes reelUpLoading {
+    0% {
+        background-color: rgb(225, 225, 225);
+    }
+
+    100% {
+        background-color: rgb(210, 210, 210);
+    }
+}
+
+@-webkit-keyframes reelUpLoading {
+    0% {
+        background-color: rgb(225, 225, 225);
+    }
+
+    100% {
+        background-color: rgb(210, 210, 210);
+    }
+}
+
+.reelUp_playlist_stacked_static {
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px auto;
+    overflow: hidden;
+}
+
+.reelUp_playlist_stacked_view_wrapper {
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+}
+
+.reelUp_playlist_stacked_view_container .reelUp_slider_heading {
+    margin-bottom: 10px;
+}
+
+.reelUp_stacked_skeleton_item .reelUp_card_video_wrapper {
+    position: relative;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    border-radius: 10px;
+    overflow: hidden;
+    z-index: 96 !important;
+}
+
+.reelUp_stacked_skeleton_item .reelUp_card_video_wrapper .reelUp_card_video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 96;
+    overflow: hidden;
+    display: block;
+    background-color: rgb(225, 225, 225);
+    animation: reelUpLoading 0.8s linear infinite alternate;
+}
+
+.reelUp_stacked_skeleton_list {
+    display: flex;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    padding: 10px 0;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+}
+
+.reelUp_stacked_skeleton_item .reelUp_card_video_wrapper {
+    width: 100%;
+    padding-bottom: 177.5%;
+}
+
+.reelUp_stacked_skeleton_list.reelUp_skeleton_static_slider {
+    gap: 25px;
+}
+
+.reelUp_stacked_skeleton_item.reelUp_slide_prev_2 > div,
+.reelUp_stacked_skeleton_item.reelUp_slide_next_2 > div {
+    width: 70%;
+}
+
+.reelUp_stacked_skeleton_item.reelUp_slide_prev > div,
+.reelUp_stacked_skeleton_item.reelUp_slide_next > div {
+    width: 80%;
+}
+
+.reelUp_stacked_skeleton_item .reelUp_card_video_wrapper {
+    width: 100%;
+}
+
+.reelUp_stacked_skeleton_item .reelUp_skeleton_card_wrapper {
+    width: 100%;
+}
+
+.reelUp_stacked_skeleton_item {
+    display: flex;
+    justify-content: center;
+}
+
+.reelUp_stacked_skeleton_item.reelUp_slide_next_2 {
+    justify-content: start;
+}
+
+.reelUp_stacked_skeleton_item.reelUp_slide_prev_2 {
+    justify-content: end;
+}

@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+.claude/
+_diag/
+_fix_backup/

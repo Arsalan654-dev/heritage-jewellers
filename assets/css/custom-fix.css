@@ -1,0 +1,333 @@
+/* ========================================
+   Heritage Standalone Navigation Fix v5
+   Completely independent of theme JS/CSS
+   ======================================== */
+
+/* PERMANENTLY hide all theme drawers and overlays */
+.t4s-drawer,
+.t4s-drawer__left,
+.t4s-drawer__right,
+.t4s-close-overlay {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  z-index: -9999 !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+  position: fixed !important;
+  left: -9999px !important;
+  top: -9999px !important;
+}
+
+/* Hide ALL close buttons from theme - ABSOLUTELY hidden */
+.t4s-drawer-menu__close,
+.t4s-drawer__close,
+button[aria-label="Close menu"],
+button[aria-label="Close Cart"],
+button[aria-label="Close sidebar"],
+button[aria-label="Close Search"] {
+  display: none !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  position: fixed !important;
+  left: -9999px !important;
+  top: -9999px !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+  z-index: -9999 !important;
+}
+
+/* Body scroll unlock - ALWAYS allow scroll by default */
+body,
+body.t4s-lock-scroll,
+body.is--opend-drawer {
+  overflow: auto !important;
+}
+
+/* Standalone Overlay */
+#hj-nav-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  z-index: 9998;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+#hj-nav-overlay.active {
+  display: block;
+  opacity: 1;
+}
+
+/* Standalone Drawer */
+#hj-nav-drawer {
+  position: fixed;
+  top: 0;
+  left: -320px;
+  width: 320px;
+  max-width: 85vw;
+  height: 100%;
+  background: #fff;
+  z-index: 9999;
+  overflow-y: auto;
+  box-shadow: 2px 0 15px rgba(0,0,0,0.2);
+  transition: left 0.3s ease;
+  -webkit-overflow-scrolling: touch;
+}
+#hj-nav-drawer.open {
+  left: 0;
+}
+
+/* Drawer Header */
+#hj-nav-drawer .hj-drawer-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  border-bottom: 1px solid #eee;
+  background: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+#hj-nav-drawer .hj-drawer-header h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
+  font-family: 'Spectral', serif;
+}
+#hj-nav-drawer .hj-close-btn {
+  width: 32px;
+  height: 32px;
+  border: none;
+  background: #f5f5f5;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: #333;
+  transition: background 0.2s;
+}
+#hj-nav-drawer .hj-close-btn:hover {
+  background: #e0e0e0;
+}
+
+/* Drawer Tabs */
+#hj-nav-drawer .hj-drawer-tabs {
+  display: flex;
+  border-bottom: 1px solid #eee;
+}
+#hj-nav-drawer .hj-drawer-tab {
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  color: #666;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s;
+  font-family: 'Montserrat', sans-serif;
+}
+#hj-nav-drawer .hj-drawer-tab.active {
+  color: #333;
+  border-bottom-color: #cd9c63;
+}
+
+/* Nav Links */
+#hj-nav-drawer .hj-nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#hj-nav-drawer .hj-nav-list li {
+  border-bottom: 1px solid #f0f0f0;
+}
+#hj-nav-drawer .hj-nav-list a {
+  display: block;
+  padding: 12px 20px;
+  color: #333;
+  text-decoration: none;
+  font-size: 14px;
+  transition: background 0.2s;
+  font-family: 'Montserrat', sans-serif;
+}
+#hj-nav-drawer .hj-nav-list a:hover {
+  background: #f8f8f8;
+  color: #cd9c63;
+}
+#hj-nav-drawer .hj-nav-list .hj-has-sub > a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#hj-nav-drawer .hj-nav-list .hj-sub-toggle {
+  font-size: 12px;
+  color: #999;
+}
+#hj-nav-drawer .hj-sub-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: none;
+  background: #fafafa;
+}
+#hj-nav-drawer .hj-sub-menu.open {
+  display: block;
+}
+#hj-nav-drawer .hj-sub-menu li a {
+  padding-left: 40px;
+  font-size: 13px;
+}
+
+/* Prevent body scroll when drawer open */
+body.hj-nav-open {
+  overflow: hidden !important;
+}
+
+/* Hamburger button fix */
+.t4s-push-menu-btn,
+a.t4s-push-menu-btn {
+  cursor: pointer !important;
+  text-decoration: none !important;
+  position: relative;
+  z-index: 100;
+}
+
+/* ========================================
+   NUCLEAR LOADING SCREEN KILLER
+   ======================================== */
+
+/* Hide ALL possible full-page loading overlays */
+body::before,
+body::after,
+html::before,
+html::after {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  z-index: -99999 !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+/* Kill any fixed/absolute overlay that covers the whole page */
+div[style*="position: fixed"][style*="z-index"],
+div[style*="position:fixed"][style*="z-index"] {
+  display: none !important;
+}
+
+/* Hide known theme loading patterns */
+.t4s-loading-overlay,
+.t4s-preloading,
+.t4s-loader,
+.t4s-page-loader,
+.t4s-site-loading,
+.page-loader,
+.page-loading,
+.site-loader,
+#page-loader,
+#preloader,
+#loading-screen,
+.t4s-overlay-loading,
+.loading-bar,
+.t4s-loading-bar {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  z-index: -99999 !important;
+  pointer-events: none !important;
+}
+
+/* Ensure the main content is always visible */
+body {
+  overflow: auto !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+body.is-transitioning,
+body.t4s-modal-opened,
+body.is--opend-drawer {
+  overflow: auto !important;
+}
+
+/* Force body to always be visible */
+.template-index,
+body {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Kill any overlay with full viewport coverage */
+.t4s-close-overlay,
+.t4s-close-overlay.is--visible,
+[class*="overlay"][style*="position: fixed"],
+[class*="overlay"][style*="position:fixed"] {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  z-index: -99999 !important;
+}
+
+/* Kill any transition blocking */
+.is-transitioning {
+  transition: none !important;
+}
+
+/* Force visibility on all sections */
+.shopify-section,
+.t4s-section,
+.t4s-website-wrapper {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* ========================================
+   FORCE LAZY LOADED CONTENT VISIBLE
+   The Kalles theme hides content until
+   lazyloadt4sed class is added by JS
+   ======================================== */
+.lazyloadt4sed,
+.lazyloadt4s,
+.lazyloadt4sed .t4s-product,
+.lazyloadt4sed .t4s-slide,
+.lazyloadt4sed .t4s-section,
+[data-render-lazy-component] {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Force hdt-reveal elements visible */
+[hdt-reveal],
+.hdt-reveal--offscreen,
+.hdt-reveal--hidden {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+  clip-path: none !important;
+}
+
+/* Force images visible */
+img {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Force the main content area */
+#MainContent,
+#MainContent > * {
+  opacity: 1 !important;
+  visibility: visible !important;
+}

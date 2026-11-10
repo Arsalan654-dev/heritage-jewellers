@@ -1,0 +1,126 @@
+/* source: ../css/reels_stories-4ac36907.css */
+@keyframes reelUpStoriesLoading__2 {
+
+    to {
+
+        background-position-x: -30%;
+
+    }
+
+}
+
+
+
+@-webkit-keyframes reelUpStoriesLoading__2 {
+
+    to {
+
+        background-position-x: -30%;
+
+    }
+
+}
+
+
+
+.reelUp_stories_static {
+
+    position: relative;
+
+    z-index: 1;
+
+    margin: 20px auto 30px;
+
+    display: flex;
+
+    display: -webkit-flex;
+
+    display: -ms-flex;
+
+    justify-content: center;
+
+    flex-wrap: wrap;
+
+}
+
+
+
+.reelUp_stories_static .reelUp_carousel_wrapper {
+
+    display: flex;
+
+    display: -webkit-flex;
+
+    overflow-x: scroll;
+
+    -ms-overflow-style: none;
+
+    scrollbar-width: none;
+
+}
+
+
+
+.reelUp_stories_static .reelUp_carousel_wrapper::-webkit-scrollbar {
+
+    display: none;
+
+}
+
+
+
+.reelUp_stories_static:not(.reelUp_stories_card_template) .reelUp_story_image_wrapper {
+
+    border-radius: 50%;
+
+}
+
+
+
+.reelUp_stories_card_template .reelUp_story_image_wrapper {
+
+    border-radius: 18px;
+
+}
+
+
+
+.reelUp_story_image_wrapper {
+
+    display: flex !important;
+
+    justify-content: center;
+
+    align-items: center;
+
+    background: #fff;
+
+}
+
+
+
+.reelUp_story_card_skeleton .reelUp_story_image_wrapper {
+
+    background-color: rgb(210, 210, 210);
+
+    background: linear-gradient(
+
+            100deg,
+
+            rgba(255, 255, 255, 0) 40%,
+
+            rgba(255, 255, 255, 0.3) 50%,
+
+            rgba(255, 255, 255, 0) 60%
+
+        )
+
+        rgb(210, 210, 210);
+
+    background-size: 200% 100%;
+
+    background-position-x: 160%;
+
+    animation: 1s reelUpStoriesLoading__2 ease-in-out infinite;
+
+}

@@ -1,0 +1,64 @@
+@keyframes reelUpLoading {
+    0% {
+        background-color: rgb(225, 225, 225);
+    }
+    100% {
+        background-color: rgb(210, 210, 210);
+    }
+}
+
+@-webkit-keyframes reelUpLoading {
+    0% {
+        background-color: rgb(225, 225, 225);
+    }
+    100% {
+        background-color: rgb(210, 210, 210);
+    }
+}
+
+.reelUp_grid_view {
+    margin: 20px auto;
+    position: relative;
+    z-index: 1;
+}
+
+.reelUp_grid_view .reelUp_grid_wrapper {
+    width: 100%;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+.reelUp_grid_view .reelUp_card_skeleton .reelUp_card_video_wrapper {
+    background-color: rgb(225, 225, 225);
+    animation: reelUpLoading 1s linear infinite alternate;
+}
+
+.reelUp_grid_view .reelUp_card_skeleton .reelUp_card_video_wrapper {
+    border-radius: 10px;
+}
+
+.reelUp_grid_view .reelUp_grid_item {
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.reelUp_grid_view .reelUp_card {
+    cursor: pointer;
+}
+
+.reelUp_grid_view .reelUp_card_skeleton.reelUp_card {
+    box-shadow: unset;
+}
+
+.reelUp_grid_view .reelUp_card .reelUp_card_video_wrapper {
+    display: flex;
+    display: -webkit-flex;
+    position: relative;
+    z-index: 99;
+}

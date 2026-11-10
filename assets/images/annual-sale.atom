@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://heritagejewels.com.pk/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://heritagejewels.com.pk/collections/annual-sale.atom"/>
+  <title>Heritage</title>
+  <updated>2026-08-14T15:49:59+05:00</updated>
+  <author>
+    <name>Heritage</name>
+  </author>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/6239912722615</id>
+    <published>2026-08-14T15:49:59+05:00</published>
+    <updated>2026-08-14T15:49:59+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/earrings-e079"/>
+    <title>Earrings - E079</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Heritage-Silver is the New Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/n273.jpg?v=1754580053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage-Silver is the New Gold<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            72000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Multi Color Stones</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Necklace Set - N273</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>import_2021_01_29_095459</s:tag>
+    <s:tag>joined-description-fields</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>oldsale</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Tops &amp;amp; Earrings</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239912722615</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">72000.00</s:price>
+      <s:sku>E079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/7533158170858</id>
+    <published>2026-01-16T17:43:08+05:00</published>
+    <updated>2026-01-16T17:43:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/necklace-set-in-opal-and-zircons"/>
+    <title>Necklace Set - N355</title>
+    <s:type>Necklace Set</s:type>
+    <s:vendor>GFM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/products/IMG_2589.jpg?v=1645102301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GFM<br>
+        <strong>Type: </strong>Necklace Set<br>
+        <strong>Price: </strong>
+            305000.00 - 422000.00
+            <a href="https://heritagejewels.com.pk/products/necklace-set-in-opal-and-zircons">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Synthetic Opals and Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Earrings - E44</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>necklace set with opal</s:tag>
+    <s:tag>Necklace Sets</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Sets</s:tag>
+    <s:tag>zircon</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7533158170858</id>
+      <title>Without Earrings</title>
+      <s:price currency="PKR">305000.00</s:price>
+      <s:sku>N355</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7533158170858</id>
+      <title>With Earrings</title>
+      <s:price currency="PKR">422000.00</s:price>
+      <s:sku>N355</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/6239911542967</id>
+    <published>2026-01-16T17:42:43+05:00</published>
+    <updated>2026-01-16T17:42:43+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/earring-22"/>
+    <title>Earrings - E44</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Heritage-Silver is the New Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/products/WhatsAppImage2022-10-10at1.39.04PM_1.jpg?v=1665408087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage-Silver is the New Gold<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            100000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">Specifications:</h1>
+<ul>
+<li><b>Studded with Opal and Zircons</b></li>
+<li><strong>925 Sterling Silver</strong></li>
+<li><strong>Yellow Gold Electroplated</strong></li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Necklace Set - N355</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Earrings with opal</s:tag>
+    <s:tag>import_2021_01_29_095459</s:tag>
+    <s:tag>joined-description-fields</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Earrings</s:tag>
+    <s:tag>oldsale</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Tops &amp;amp; Earrings</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239911542967</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">100000.00</s:price>
+      <s:sku>E44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/6239911444663</id>
+    <published>2025-12-20T17:54:07+05:00</published>
+    <updated>2025-12-20T17:54:07+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/necklace-set-n95"/>
+    <title>Necklace Set - N95</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Heritage-Silver is the New Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_5786aaaa.jpg?v=1766234400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage-Silver is the New Gold<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            487000.00 - 1101000.00
+            <a href="https://heritagejewels.com.pk/products/necklace-set-n95">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Cubic Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 70% value of the sale price.</span><br><span>Refund: 50% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>import_2021_01_29_095459</s:tag>
+    <s:tag>joined-description-fields</s:tag>
+    <s:tag>Necklace Sets</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>oldsale</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Sets</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239911444663</id>
+      <title>With Earrings / With Chokar / With Jhumar &amp; Teeka</title>
+      <s:price currency="PKR">1101000.00</s:price>
+      <s:sku>N95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239911444663</id>
+      <title>With Earrings / With Chokar / Without Jhumar &amp; Teeka</title>
+      <s:price currency="PKR">951000.00</s:price>
+      <s:sku>N95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239911444663</id>
+      <title>With Earrings / Without Chokar / With Jhumar &amp; Teeka</title>
+      <s:price currency="PKR">894000.00</s:price>
+      <s:sku>N95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239911444663</id>
+      <title>With Earrings / Without Chokar / Without Jhumar &amp; Teeka</title>
+      <s:price currency="PKR">744000.00</s:price>
+      <s:sku>N95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239911444663</id>
+      <title>Without Earrings / With Chokar / With Jhumar &amp; Teeka</title>
+      <s:price currency="PKR">846000.00</s:price>
+      <s:sku>N95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239911444663</id>
+      <title>Without Earrings / With Chokar / Without Jhumar &amp; Teeka</title>
+      <s:price currency="PKR">695000.00</s:price>
+      <s:sku>N95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239911444663</id>
+      <title>Without Earrings / Without Chokar / With Jhumar &amp; Teeka</title>
+      <s:price currency="PKR">639000.00</s:price>
+      <s:sku>N95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239911444663</id>
+      <title>Without Earrings / Without Chokar / Without Jhumar &amp; Teeka</title>
+      <s:price currency="PKR">487000.00</s:price>
+      <s:sku>N95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/7659941429482</id>
+    <published>2025-11-20T17:22:46+05:00</published>
+    <updated>2025-11-20T17:22:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/necklace-set-in-jade-and-pearls-2"/>
+    <title>Necklace Set - N395</title>
+    <s:type>Necklace Set</s:type>
+    <s:vendor>HUSN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_8723.jpg?v=1700841140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HUSN<br>
+        <strong>Type: </strong>Necklace Set<br>
+        <strong>Price: </strong>
+            336000.00 - 1153000.00
+            <a href="https://heritagejewels.com.pk/products/necklace-set-in-jade-and-pearls-2">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">Specifications:</h1>
+<ul>
+<li>Studded with Jade, Polkies and real Pearls</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Earrings - E1057</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>bridal sets</s:tag>
+    <s:tag>Necklace Set</s:tag>
+    <s:tag>Necklace Set in Jade</s:tag>
+    <s:tag>Necklace Sets</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Pearls and Polkies</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Sets</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7659941429482</id>
+      <title>With Earrings / With Mala / With Teeka &amp; Jhumar &amp; Ring</title>
+      <s:price currency="PKR">1153000.00</s:price>
+      <s:sku>N395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7659941429482</id>
+      <title>With Earrings / With Mala / Without Teeka &amp; Jhumar &amp; Ring</title>
+      <s:price currency="PKR">924000.00</s:price>
+      <s:sku>N395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7659941429482</id>
+      <title>With Earrings / Without Mala / With Teeka &amp; Jhumar &amp; Ring</title>
+      <s:price currency="PKR">800000.00</s:price>
+      <s:sku>N395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7659941429482</id>
+      <title>With Earrings / Without Mala / Without Teeka &amp; Jhumar &amp; Ring</title>
+      <s:price currency="PKR">571000.00</s:price>
+      <s:sku>N395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7659941429482</id>
+      <title>Without Earrings / With Mala / With Teeka &amp; Jhumar &amp; Ring</title>
+      <s:price currency="PKR">918000.00</s:price>
+      <s:sku>N395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7659941429482</id>
+      <title>Without Earrings / With Mala / Without Teeka &amp; Jhumar &amp; Ring</title>
+      <s:price currency="PKR">689000.00</s:price>
+      <s:sku>N395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7659941429482</id>
+      <title>Without Earrings / Without Mala / With Teeka &amp; Jhumar &amp; Ring</title>
+      <s:price currency="PKR">564000.00</s:price>
+      <s:sku>N395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7659941429482</id>
+      <title>Without Earrings / Without Mala / Without Teeka &amp; Jhumar &amp; Ring</title>
+      <s:price currency="PKR">336000.00</s:price>
+      <s:sku>N395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8761112789299</id>
+    <published>2025-11-03T16:43:20+05:00</published>
+    <updated>2025-11-03T16:43:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/tops-t419"/>
+    <title>Tops - T419</title>
+    <s:type>Tops</s:type>
+    <s:vendor>CHTM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_6383_3fa9f2b2-2ca1-4785-bf47-3c2ea94db332.jpg?v=1697279977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHTM<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            14000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">Specifications:</h1>
+<ul>
+<li>Studded with Chetum and Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Pendant Set - LS560</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11</s:tag>
+    <s:tag>11:11 Sale</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:tag>New Earrings</s:tag>
+    <s:tag>oldsale</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Tops &amp;amp; Earrings</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761112789299</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">14000.00</s:price>
+      <s:sku>T419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8088048632115</id>
+    <published>2025-11-02T15:14:24+05:00</published>
+    <updated>2025-11-02T15:14:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/tops-in-chetum-and-zircons-30"/>
+    <title>Tops - T187</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/products/IMG_6230_f22d0542-878c-4649-a1a0-5a5c07966732.jpg?v=1679412040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">Specifications:</h1>
+<ul>
+<li>Studded with Chetum and Cubic Zircons</li>
+<li>925 Sterling Silver</li>
+<li>White Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Pendant Set - LS353</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11</s:tag>
+    <s:tag>11:11 Sale</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:tag>New Earrings</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Tops &amp;amp; Earrings</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8088048632115</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">16000.00</s:price>
+      <s:sku>T187</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8813197033779</id>
+    <published>2025-09-13T19:00:46+05:00</published>
+    <updated>2025-09-13T19:00:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/tops-with-jade-feroza-and-zircons"/>
+    <title>Tops - T439</title>
+    <s:type>Tops</s:type>
+    <s:vendor>RZWN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_7446_3ab9e189-ba26-4084-98e6-a134d3de2656.jpg?v=1699257837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RZWN<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            30000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">Specifications:</h1>
+<ul>
+<li>Studded with Jade, Feroza and Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+<li>Size 2cm</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Pendant Set - LS566</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11 Sale</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Feroza and Zircons</s:tag>
+    <s:tag>LIMITED SALE</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:tag>New Earrings</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>Tops in Jade</s:tag>
+    <s:tag>Tops with Jade and Feroza</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8813197033779</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>T439</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8942324875571</id>
+    <published>2025-08-12T12:16:29+05:00</published>
+    <updated>2025-08-12T12:16:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/moissanite-diamond-pendant-mdp03"/>
+    <title>Moissanite Diamond Pendant - MDP03</title>
+    <s:type></s:type>
+    <s:vendor>GFM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_1995.jpg?v=1707221843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GFM<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" style="text-align: center;" data-mce-style="text-align: center;">
+<div>
+<table style="width: 292.172px;" data-mce-style="width: 292.172px;">
+<tbody>
+<tr style="height: 19px;">
+<td style="width: 494px; text-align: left; height: 19px;" data-mce-style="width: 494px; text-align: left;"><strong>StoneS Size   </strong></td>
+<td style="width: 474px; text-align: left; height: 19px;" data-mce-style="width: 474px; text-align: left;"><strong data-mce-fragment="1">0.80 Cts</strong></td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 494px; text-align: left; height: 19px;" data-mce-style="width: 494px; text-align: left;"><strong data-mce-fragment="1">Color Grade </strong></td>
+<td style="width: 474px; text-align: left; height: 19px;" data-mce-style="width: 474px; text-align: left;"><strong data-mce-fragment="1">D</strong></td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 494px; text-align: left; height: 19px;" data-mce-style="width: 494px; text-align: left;"><strong data-mce-fragment="1">Clarity Grade </strong></td>
+<td style="width: 474px; text-align: left; height: 19px;" data-mce-style="width: 474px; text-align: left;"><strong data-mce-fragment="1">VVS1</strong></td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 494px; text-align: left; height: 19px;" data-mce-style="width: 494px; text-align: left;">
+<strong data-mce-fragment="1">Cut Grade   </strong> </td>
+<td style="width: 474px; text-align: left; height: 19px;" data-mce-style="width: 474px; text-align: left;"><strong data-mce-fragment="1">Excellent</strong></td>
+</tr>
+<tr style="height: 14.5625px;">
+<td style="width: 494px; text-align: left; height: 14.5625px;" data-mce-style="width: 494px; text-align: left;"><strong data-mce-fragment="1">Symmetry </strong></td>
+<td style="width: 474px; text-align: left; height: 14.5625px;" data-mce-style="width: 474px; text-align: left;"><strong data-mce-fragment="1">Excellent</strong></td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 494px; text-align: left; height: 19px;" data-mce-style="width: 494px; text-align: left;"><strong data-mce-fragment="1">Polish      </strong></td>
+<td style="width: 474px; text-align: left; height: 19px;" data-mce-style="width: 474px; text-align: left;"><strong data-mce-fragment="1">Excellent</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p data-mce-fragment="1" style="text-align: left;" data-mce-style="text-align: left;"><strong>Brilliance and Sparkle</strong><span>: Moissanite's optical properties give it exceptional brilliance, fire, and sparkle, comparable to or even exceeding that of traditional diamonds. Its refractive index is higher than diamonds, meaning it reflects more light, resulting in a dazzling appearance.</span><br><strong>Affordability</strong><span>: Moissanite typically costs significantly less than diamonds of similar size and quality. This affordability allows you to get a larger stone or a more intricate design within your budget.</span><br><strong>Ethical Sourcing</strong><span>: Moissanite is created in a lab, eliminating concerns about unethical mining practices or the exploitation of labor often associated with diamond mining.</span><br><strong>Durability</strong><span>: Moissanite is extremely durable, ranking second only to diamonds on the Mohs scale of hardness. This durability ensures that your Moissanite jewelry will withstand everyday wear and remain beautiful for years to come.</span><br><strong>Eco-Friendly</strong><span>: Lab-created Moissanite has a minimal environmental impact compared to diamond mining, which requires significant energy and resources. Choosing Moissanite promotes sustainability and reduces your carbon footprint.</span><br><strong>Uniqueness</strong><span>: While diamonds are the traditional choice for jewelry, Moissanite offers a distinctive alternative. Its unique properties and origin make it a conversation starter and allow you to express your individuality.</span></p>
+</div>
+<div data-mce-fragment="1" style="text-align: center;" data-mce-style="text-align: center;">
+<strong> We provide,</strong><br data-mce-fragment="1"><strong>Exchange: 50% value of the sale price.</strong><br data-mce-fragment="1"><strong>Refund: 30% value of the sale price. </strong>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Moissanite Collection</s:tag>
+    <s:tag>Moissanite Jewelry</s:tag>
+    <s:tag>Moissanite Pendant Set</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8942324875571</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">29000.00</s:price>
+      <s:sku>MDP03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/6239913705655</id>
+    <published>2025-08-10T12:45:29+05:00</published>
+    <updated>2025-08-10T12:45:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/earrings-e086"/>
+    <title>Earrings - E086</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Heritage-Silver is the New Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/NecklaceSet-N324.jpg?v=1754811873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage-Silver is the New Gold<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            27000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Cubic Zircons</li>
+<li>925 Sterling Silver</li>
+<li>White Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Necklace Set - N324</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>import_2021_01_29_095459</s:tag>
+    <s:tag>joined-description-fields</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>oldsale</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Tops &amp;amp; Earrings</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239913705655</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">27000.00</s:price>
+      <s:sku>E086</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/6239913377975</id>
+    <published>2025-08-08T17:01:40+05:00</published>
+    <updated>2025-08-08T17:01:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/earrings-e084"/>
+    <title>Earrings - E084</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>ZHDI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/n281.jpg?v=1754580623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZHDI<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            120000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Pearls and Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Necklace Set - N281</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>import_2021_01_29_095459</s:tag>
+    <s:tag>joined-description-fields</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>oldsale</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Tops &amp;amp; Earrings</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239913377975</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">120000.00</s:price>
+      <s:sku>E084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/6239912460471</id>
+    <published>2025-08-08T16:46:19+05:00</published>
+    <updated>2025-08-08T16:46:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/earrings-e078"/>
+    <title>Earrings - E078</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Heritage-Silver is the New Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/n297.jpg?v=1754580045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage-Silver is the New Gold<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            104000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Cubic Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Necklace Set - N297</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Earrings with Cubic Zircons</s:tag>
+    <s:tag>import_2021_01_29_095459</s:tag>
+    <s:tag>joined-description-fields</s:tag>
+    <s:tag>oldsale</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Tops &amp;amp; Earrings</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239912460471</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">104000.00</s:price>
+      <s:sku>E078</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/7651622650090</id>
+    <published>2025-08-05T18:32:05+05:00</published>
+    <updated>2025-08-05T18:32:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/earrings-in-pearls-and-cubic-zircons-7"/>
+    <title>Pendant Set - LS266</title>
+    <s:type>Tops</s:type>
+    <s:vendor>WS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/products/IMG_5553a.jpg?v=1649431631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WS<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            51000.00 - 109000.00
+            <a href="https://heritagejewels.com.pk/products/earrings-in-pearls-and-cubic-zircons-7">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">Specifications:</h1>
+<ul>
+<li>Studded with Pearls and Cubic Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow and White Gold Electroplated</li>
+<li>Pendant Length 7.6cm</li>
+<li>Pendant Width 4.2cm</li>
+<li>Earrings Length 5.7cm</li>
+<li>Earrings Width 3.2cm</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Earrings - E1049</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Locket Set</s:tag>
+    <s:tag>Locket Sets</s:tag>
+    <s:tag>oldsale</s:tag>
+    <s:tag>Pendant Set</s:tag>
+    <s:tag>Pendant Set with Pearls and Cubic Zircons</s:tag>
+    <s:tag>Pendant Sets</s:tag>
+    <s:tag>Pendants</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Set</s:tag>
+    <s:tag>sets</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7651622650090</id>
+      <title>With Locket / With Chain</title>
+      <s:price currency="PKR">109000.00</s:price>
+      <s:sku>LS266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7651622650090</id>
+      <title>With Locket / Without Chain</title>
+      <s:price currency="PKR">90000.00</s:price>
+      <s:sku>LS266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7651622650090</id>
+      <title>Without Locket / With Chain</title>
+      <s:price currency="PKR">84000.00</s:price>
+      <s:sku>LS266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7651622650090</id>
+      <title>Without Locket / Without Chain</title>
+      <s:price currency="PKR">51000.00</s:price>
+      <s:sku>LS266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/7943082639594</id>
+    <published>2025-08-05T18:17:09+05:00</published>
+    <updated>2025-08-05T18:17:09+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/necklace-set-in-feroza-and-zircons"/>
+    <title>Necklace Set - N439</title>
+    <s:type>Necklace Set</s:type>
+    <s:vendor>UMRM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/products/IMG_1200a.jpg?v=1664788322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UMRM<br>
+        <strong>Type: </strong>Necklace Set<br>
+        <strong>Price: </strong>
+            88000.00 - 209000.00
+            <a href="https://heritagejewels.com.pk/products/necklace-set-in-feroza-and-zircons">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Studded with Feroza and Zircons</strong></li>
+<li><strong>925 Sterling Silver</strong></li>
+<li><strong>White Gold Electroplated</strong></li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Earrings - E1143</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>bridal sets</s:tag>
+    <s:tag>Necklace Set</s:tag>
+    <s:tag>Necklace set in Feroza and Zircons</s:tag>
+    <s:tag>Necklace Sets</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Sets</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7943082639594</id>
+      <title>Necklace Set</title>
+      <s:price currency="PKR">209000.00</s:price>
+      <s:sku>N439</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7943082639594</id>
+      <title>Necklace</title>
+      <s:price currency="PKR">121000.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7943082639594</id>
+      <title>Earrings</title>
+      <s:price currency="PKR">88000.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8355566485811</id>
+    <published>2025-08-05T17:14:53+05:00</published>
+    <updated>2025-08-05T17:14:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/tops-t335"/>
+    <title>Tops - T335</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>RZWN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_0535.jpg?v=1687004614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RZWN<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            26000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">Specifications:</h1>
+<ul>
+<li>Studded with Cubic Zircons<br>
+</li>
+<li>925 Sterling Silver</li>
+<li>Yellow and White Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Pendant Set - LS490</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11</s:tag>
+    <s:tag>11:11 Sale</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:tag>New Earrings</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Tops &amp;amp; Earrings</s:tag>
+    <s:tag>Tops in Cubic Zircons</s:tag>
+    <s:tag>Tops with Zircons</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8355566485811</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">26000.00</s:price>
+      <s:sku>T335</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8761112363315</id>
+    <published>2025-08-05T16:35:38+05:00</published>
+    <updated>2025-08-05T16:35:38+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/tops-t416"/>
+    <title>Tops - T416</title>
+    <s:type>Tops</s:type>
+    <s:vendor>CHTM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_6299_c02f485a-affd-42ae-9bcc-ae54821229b4.jpg?v=1697279940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHTM<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            16000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">Specifications:</h1>
+<ul>
+<li>Studded with Multi Color Stones</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Pendant Set - LS557</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11</s:tag>
+    <s:tag>11:11 Sale</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:tag>New Earrings</s:tag>
+    <s:tag>oldsale</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Tops &amp;amp; Earrings</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761112363315</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">16000.00</s:price>
+      <s:sku>T416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8871332544819</id>
+    <published>2025-08-03T18:38:16+05:00</published>
+    <updated>2025-08-03T18:38:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/earrings-e1332"/>
+    <title>Earrings - E1332</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>ZHDI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_8515_9749aa3a-b704-48d3-bc79-800de6b2fc91.jpg?v=1702032491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZHDI<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            85000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">Specifications:</h1>
+<ul>
+<li>Studded with Chetum, jade and Pearls</li>
+<li>925 Sterling Silver</li>
+<li>Yellow<span> </span>Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Necklace Set - N582</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11</s:tag>
+    <s:tag>11:11 Sale</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>LIMITED SALE</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:tag>New Earrings</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Tops &amp;amp; Earrings</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8871332544819</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">85000.00</s:price>
+      <s:sku>E1332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/7544229265642</id>
+    <published>2025-08-03T12:30:29+05:00</published>
+    <updated>2025-08-03T12:30:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/earring-in-pearls-and-polkies"/>
+    <title>Earrings - E955</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>JVD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/products/IMG_2677_b04ebb6a-7f27-49fa-9628-6ad8b477e328.jpg?v=1641976587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JVD<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            68000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">Specifications:</h1>
+<ul>
+<li>Studded with Pearls and Polkies</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Necklace Set - N361</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Earring in Pearls and Polkies</s:tag>
+    <s:tag>Nairab Earrings</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Earrings</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Tops &amp;amp; Earrings</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7544229265642</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">68000.00</s:price>
+      <s:sku>E955</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8761070256435</id>
+    <published>2025-01-12T12:55:44+05:00</published>
+    <updated>2025-01-12T12:55:44+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/ring-r633"/>
+    <title>Ring - R633</title>
+    <s:type>Rings</s:type>
+    <s:vendor>CHTM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_6617.jpg?v=1697276982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHTM<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            13000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Blue Onyx and Zircons</li>
+<li data-mce-fragment="1">925 Sterling Silver</li>
+<li data-mce-fragment="1">Yellow Gold Electroplated</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br data-mce-fragment="1"><span data-mce-fragment="1">All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11 Sale</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:tag>New Ring</s:tag>
+    <s:tag>oldsale</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Ring in Blue Onyx and Zircons</s:tag>
+    <s:tag>Ring with Blue Onyx and Zircons</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>6</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>7</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>8</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>9</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>10</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>11</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>12</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>13</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>14</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>15</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>16</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>17</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>18</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>19</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>20</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>21</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>22</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>23</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>24</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>25</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>26</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>27</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8761070256435</id>
+      <title>28</title>
+      <s:price currency="PKR">13000.00</s:price>
+      <s:sku>R633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8073578217779</id>
+    <published>2024-08-04T13:01:45+05:00</published>
+    <updated>2024-08-04T13:01:45+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/ring-14"/>
+    <title>Ring - R509</title>
+    <s:type>Rings</s:type>
+    <s:vendor>ZSHN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/products/IMG_1862_6d11accb-bbc8-479b-9e94-3ec566554e91.jpg?v=1673625043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZSHN<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            30000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title" data-mce-fragment="1">Specifications:</h1>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Studded with<span data-mce-fragment="1"> Chetum, Pearls and Zircons</span>
+</li>
+<li data-mce-fragment="1">925 Sterling Silver</li>
+<li data-mce-fragment="1">Yellow Gold Electroplated</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br data-mce-fragment="1"><span data-mce-fragment="1">All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br data-mce-fragment="1"><span data-mce-fragment="1">We provide,</span><br data-mce-fragment="1"><span data-mce-fragment="1">Exchange: 50% value of the sale price.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Refund: 30% value of the sale price.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>6</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>7</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>8</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>9</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>10</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>11</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>12</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>13</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>14</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>15</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>16</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>17</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>18</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>19</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>20</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>21</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>22</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>23</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>24</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>25</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>26</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>27</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8073578217779</id>
+      <title>28</title>
+      <s:price currency="PKR">30000.00</s:price>
+      <s:sku>R509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8876880888115</id>
+    <published>2024-07-28T16:52:10+05:00</published>
+    <updated>2024-07-28T16:52:10+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/earrings-e1341"/>
+    <title>Earrings - E1341</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>WS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_8475_0f9519bf-4cf1-4274-93a8-ebedee759180.jpg?v=1702299497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WS<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            94000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">Specifications:</h1>
+<ul>
+<li>Studded with Chetum and Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Necklace Set - N591</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11</s:tag>
+    <s:tag>11:11 Sale</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>LIMITED SALE</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:tag>New Earrings</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Tops &amp;amp; Earrings</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8876880888115</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">94000.00</s:price>
+      <s:sku>E1341</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8218062913843</id>
+    <published>2024-06-03T18:20:57+05:00</published>
+    <updated>2024-06-03T18:20:57+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/earrings-in-falsa-and-zircons-1"/>
+    <title>Earrings - E233</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>WS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/products/set-falsa_1.jpg?v=1681384054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WS<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            90000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>
+<strong>Specifications:</strong><br>
+</h1>
+<ul>
+<li>
+<p>Studded with falsa stone polkies and cubic zircon</p>
+</li>
+<li>
+<p>925 Sterling Silver</p>
+</li>
+<li>Earrings Length 8.5cm</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br><span>We provide,</span><br><span>Exchange: 50% value of the sale price.</span><br><span>Refund: 30% value of the sale price.</span><br><span>P.s: All products can be customized as per customer requirement</span></p>
+<p><span>Necklace Set - N287</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8218062913843</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">90000.00</s:price>
+      <s:sku>E233</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/6239961579703</id>
+    <published>2024-06-02T21:00:06+05:00</published>
+    <updated>2024-06-02T21:00:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/necklace-set-in-pearls-8"/>
+    <title>Necklace Set in Pearls</title>
+    <s:type>Necklace Set</s:type>
+    <s:vendor>Heritage-Silver is the New Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/products/product_m___m_1.png?v=1611917566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage-Silver is the New Gold<br>
+        <strong>Type: </strong>Necklace Set<br>
+        <strong>Price: </strong>
+            195000.00 - 292000.00
+            <a href="https://heritagejewels.com.pk/products/necklace-set-in-pearls-8">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title" data-mce-fragment="1">Specifications:</h1>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Studded with Pearls </li>
+<li data-mce-fragment="1">925 Sterling Silver</li>
+<li data-mce-fragment="1">Yellow Gold Electroplated</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br data-mce-fragment="1"><span data-mce-fragment="1">All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br data-mce-fragment="1"><span data-mce-fragment="1">We provide,</span><br data-mce-fragment="1"><span data-mce-fragment="1">Exchange: 50% value of the sale price.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Refund: 30% value of the sale price.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>import_2021_01_29_095459</s:tag>
+    <s:tag>joined-description-fields</s:tag>
+    <s:tag>Necklace Sets</s:tag>
+    <s:tag>Ramadan Sale</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Sets</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239961579703</id>
+      <title>With Earrings</title>
+      <s:price currency="PKR">292000.00</s:price>
+      <s:sku>S190</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/6239961579703</id>
+      <title>Without Earrings</title>
+      <s:price currency="PKR">195000.00</s:price>
+      <s:sku>S190</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8876880953651</id>
+    <published>2024-06-02T19:48:43+05:00</published>
+    <updated>2024-06-02T19:48:43+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/jhumar-j78"/>
+    <title>Jhumar - J78</title>
+    <s:type>Jhumar</s:type>
+    <s:vendor>WS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_8485_91a2f407-aa9a-4c24-b6d6-a63028382806.jpg?v=1702299502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WS<br>
+        <strong>Type: </strong>Jhumar<br>
+        <strong>Price: </strong>
+            72000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title" data-mce-fragment="1">Specifications:</h1>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Studded with Chetum and Zircons</li>
+<li data-mce-fragment="1">925 Sterling Silver</li>
+<li data-mce-fragment="1">Yellow Gold Electroplated</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br data-mce-fragment="1"><span data-mce-fragment="1">All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br data-mce-fragment="1"><span data-mce-fragment="1">We provide,</span><br data-mce-fragment="1"><span data-mce-fragment="1">Exchange: 50% value of the sale price.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Refund: 30% value of the sale price.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11 Sale</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Jhumar</s:tag>
+    <s:tag>Jhumar &amp;amp; Mathapatti</s:tag>
+    <s:tag>Jhumar in Chetum and Zircons</s:tag>
+    <s:tag>LIMITED SALE</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8876880953651</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">72000.00</s:price>
+      <s:sku>J78</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8876880986419</id>
+    <published>2024-06-02T19:48:36+05:00</published>
+    <updated>2024-06-02T19:48:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/teeka-j79"/>
+    <title>Teeka - J79</title>
+    <s:type>Teeka</s:type>
+    <s:vendor>WS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_8478_718d4391-4539-4982-871f-6c714a7c77bb.jpg?v=1702299505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WS<br>
+        <strong>Type: </strong>Teeka<br>
+        <strong>Price: </strong>
+            50000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title" data-mce-fragment="1">Specifications:</h1>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Studded with Chetum and Zircons</li>
+<li data-mce-fragment="1">925 Sterling Silver</li>
+<li data-mce-fragment="1">Yellow Gold Electroplated</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br data-mce-fragment="1"><span data-mce-fragment="1">All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br data-mce-fragment="1"><span data-mce-fragment="1">We provide,</span><br data-mce-fragment="1"><span data-mce-fragment="1">Exchange: 50% value of the sale price.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Refund: 30% value of the sale price.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11:11 Sale</s:tag>
+    <s:tag>24 Hours</s:tag>
+    <s:tag>Jhumar &amp;amp; Mathapatti</s:tag>
+    <s:tag>LIMITED SALE</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:tag>Teeka in Chetum and Zircons</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8876880986419</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">50000.00</s:price>
+      <s:sku>J79</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://heritagejewels.com.pk/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://heritagejewels.com.pk/collections/0-5k.atom"/>
+  <title>Heritage</title>
+  <updated>2026-06-14T13:36:53+05:00</updated>
+  <author>
+    <name>Heritage</name>
+  </author>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/10221479002419</id>
+    <published>2026-06-14T13:36:53+05:00</published>
+    <updated>2026-06-14T13:36:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/pendant-32"/>
+    <title>Imperial – Verdant Fanfare</title>
+    <s:type>Pendants</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/1A9A5651_5024ad2d-51bc-426d-a204-874b20d6ef62.jpg?v=1781603396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Pendants<br>
+        <strong>Price: </strong>
+            4250.00 - 9250.00
+            <a href="https://heritagejewels.com.pk/products/pendant-32">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Jade and Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/10221479002419</id>
+      <title>With Chain</title>
+      <s:price currency="PKR">9250.00</s:price>
+      <s:sku>LS798</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/10221479002419</id>
+      <title>Without Chain</title>
+      <s:price currency="PKR">4250.00</s:price>
+      <s:sku>LS798</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/10184779497779</id>
+    <published>2026-06-13T17:14:11+05:00</published>
+    <updated>2026-06-13T17:14:11+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/pendant-set-ls792"/>
+    <title>Azure – Petal Crest</title>
+    <s:type>Charms &amp; Pendants</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/1A9A5272_1d5c63f1-5e98-4914-b50f-1098f59acdba.jpg?v=1781603956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Charms &amp; Pendants<br>
+        <strong>Price: </strong>
+            4125.00 - 9625.00
+            <a href="https://heritagejewels.com.pk/products/pendant-set-ls792">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Blue Onyx and Zircons</li>
+<li>925 Sterling Silver</li>
+<li>White Gold Electroplated</li>
+<li>Size: 0.96/0.60 Inches</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monthly Sale</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/10184779497779</id>
+      <title>With Chain</title>
+      <s:price currency="PKR">9625.00</s:price>
+      <s:sku>LS792</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/10184779497779</id>
+      <title>Without Chain</title>
+      <s:price currency="PKR">4125.00</s:price>
+      <s:sku>LS792</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/10184771076403</id>
+    <published>2026-06-13T17:14:09+05:00</published>
+    <updated>2026-06-13T17:14:09+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/pendant-set-ls790"/>
+    <title>Ember – Twisted Elegance</title>
+    <s:type>Charms &amp; Pendants</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/1A9A5256_9eacca68-d2f1-4422-8e0a-594436564515.jpg?v=1781604097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Charms &amp; Pendants<br>
+        <strong>Price: </strong>
+            4500.00 - 10000.00
+            <a href="https://heritagejewels.com.pk/products/pendant-set-ls790">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Chetum and Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+<li>Size: 0.95/0.55 Inches</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monthly Sale</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/10184771076403</id>
+      <title>With Chain</title>
+      <s:price currency="PKR">10000.00</s:price>
+      <s:sku>LS790</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/10184771076403</id>
+      <title>Without Chain</title>
+      <s:price currency="PKR">4500.00</s:price>
+      <s:sku>LS790</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/10184769601843</id>
+    <published>2026-06-13T17:14:06+05:00</published>
+    <updated>2026-06-13T17:14:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/pendant-set-ls788"/>
+    <title>Royal Gem Mosaic</title>
+    <s:type>Charms &amp; Pendants</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/1A9A5242_72501a13-ce1e-49b6-affe-2a7da201ab33.jpg?v=1781604214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Charms &amp; Pendants<br>
+        <strong>Price: </strong>
+            4750.00 - 10250.00
+            <a href="https://heritagejewels.com.pk/products/pendant-set-ls788">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Multi Color Stones</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+<li>Size: 0.80/0.55 Inches</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/10184769601843</id>
+      <title>With Chain</title>
+      <s:price currency="PKR">10250.00</s:price>
+      <s:sku>LS788</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/10184769601843</id>
+      <title>Without Chain</title>
+      <s:price currency="PKR">4750.00</s:price>
+      <s:sku>LS788</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/8298548887859</id>
+    <published>2026-04-23T18:55:04+05:00</published>
+    <updated>2026-04-23T18:55:04+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/pendant-18"/>
+    <title>Blue Fountain</title>
+    <s:type>Pendant</s:type>
+    <s:vendor>SMRRJR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/IMG_0639a_817c171a-ec9a-4bda-8b36-807e30d4ad08.jpg?v=1684834029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMRRJR<br>
+        <strong>Type: </strong>Pendant<br>
+        <strong>Price: </strong>
+            5000.00 - 10500.00
+            <a href="https://heritagejewels.com.pk/products/pendant-18">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title" data-mce-fragment="1"><br></h1>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Studded with Blue Onyx and Cubic Zircons</li>
+<li data-mce-fragment="1">925 Sterling Silver</li>
+<li data-mce-fragment="1">Yellow<span> </span>Gold Electroplated</li>
+<li data-mce-fragment="1">Size 2.6/1cm</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br data-mce-fragment="1"><span data-mce-fragment="1">All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monthly Sale</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8298548887859</id>
+      <title>With Chain</title>
+      <s:price currency="PKR">10500.00</s:price>
+      <s:sku>LS476</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/8298548887859</id>
+      <title>Without Chain</title>
+      <s:price currency="PKR">5000.00</s:price>
+      <s:sku>LS477</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/9529476415795</id>
+    <published>2026-04-11T15:21:54+05:00</published>
+    <updated>2026-04-11T15:21:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/pendant-ls698"/>
+    <title>Starlight Dewdrop</title>
+    <s:type>Charms &amp; Pendants</s:type>
+    <s:vendor>SMRRJR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/1A9A0952_c98ca396-f7e2-4f82-b419-871fc277ed5d.jpg?v=1728982820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMRRJR<br>
+        <strong>Type: </strong>Charms &amp; Pendants<br>
+        <strong>Price: </strong>
+            3500.00 - 8500.00
+            <a href="https://heritagejewels.com.pk/products/pendant-ls698">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Studded with Grey Pearls and Zircons</li>
+<li data-mce-fragment="1">925 Sterling Silver</li>
+<li data-mce-fragment="1">Yellow Gold Electroplated</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br data-mce-fragment="1"><span data-mce-fragment="1">All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monthly Sale</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:tag>sale2025</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/9529476415795</id>
+      <title>With Chain</title>
+      <s:price currency="PKR">8500.00</s:price>
+      <s:sku>LS698</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/9529476415795</id>
+      <title>Without Chain</title>
+      <s:price currency="PKR">3500.00</s:price>
+      <s:sku>LS698</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/7941988483306</id>
+    <published>2026-04-11T14:31:27+05:00</published>
+    <updated>2026-04-11T14:31:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/pendant-in-blue-onyx-and-cubic-zircons"/>
+    <title>Mysterious Zircons Spinning Over Onyx</title>
+    <s:type>Pendant</s:type>
+    <s:vendor>GFM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/products/IMG_1240a_cf6f7c2a-126a-4bc5-8a34-c9e825248a06.jpg?v=1677671211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GFM<br>
+        <strong>Type: </strong>Pendant<br>
+        <strong>Price: </strong>
+            3750.00 - 8750.00
+            <a href="https://heritagejewels.com.pk/products/pendant-in-blue-onyx-and-cubic-zircons">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title" data-mce-fragment="1">Specifications:</h1>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Studded with Blue Onyx and Cubic Zircons</strong></li>
+<li data-mce-fragment="1"><strong>925 Sterling Silver</strong></li>
+<li data-mce-fragment="1"><strong>Yellow Gold Electroplated</strong></li>
+<li data-mce-fragment="1"><strong>Size 2.2/1.3cm</strong></li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br data-mce-fragment="1"><span data-mce-fragment="1">All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br data-mce-fragment="1"><span data-mce-fragment="1">We provide,</span><br data-mce-fragment="1"><span data-mce-fragment="1">Exchange: 50% value of the sale price.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Refund: 30% value of the sale price.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Check</s:tag>
+    <s:tag>Monthly Sale</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7941988483306</id>
+      <title>With Chain</title>
+      <s:price currency="PKR">8750.00</s:price>
+      <s:sku>LS320</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7941988483306</id>
+      <title>Without Chain</title>
+      <s:price currency="PKR">3750.00</s:price>
+      <s:sku>LS320</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/7852457984234</id>
+    <published>2026-04-11T14:22:46+05:00</published>
+    <updated>2026-04-11T14:22:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/pendant-in-multi-color-stones-1"/>
+    <title>Elegant Naurattan Pendant</title>
+    <s:type>Pendant</s:type>
+    <s:vendor>GFM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/products/IMG_9710.jpg?v=1677755161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GFM<br>
+        <strong>Type: </strong>Pendant<br>
+        <strong>Price: </strong>
+            3500.00 - 8500.00
+            <a href="https://heritagejewels.com.pk/products/pendant-in-multi-color-stones-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title" data-mce-fragment="1">Specifications:</h1>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Studded with Multi Color Stones</li>
+<li data-mce-fragment="1">925 Sterling Silver</li>
+<li data-mce-fragment="1">Yellow Gold Electroplated</li>
+<li data-mce-fragment="1">Size 2.2/1.4cm</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br data-mce-fragment="1"><span data-mce-fragment="1">All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br data-mce-fragment="1"><span data-mce-fragment="1">We provide,</span><br data-mce-fragment="1"><span data-mce-fragment="1">Exchange: 50% value of the sale price.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Refund: 30% value of the sale price.</span><br data-mce-fragment="1"><span data-mce-fragment="1">P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monthly Sale</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Pendant in Multi Color Stones</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7852457984234</id>
+      <title>With Chain</title>
+      <s:price currency="PKR">8500.00</s:price>
+      <s:sku>LS290</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/7852457984234</id>
+      <title>Without Chain</title>
+      <s:price currency="PKR">3500.00</s:price>
+      <s:sku>LS290</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/9870471528755</id>
+    <published>2026-02-03T14:04:17+05:00</published>
+    <updated>2026-02-03T14:04:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/pendant-set-ls752"/>
+    <title>Enchanted Floral</title>
+    <s:type>Charms &amp; Pendants</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/1A9A1234_05854664-ac63-4add-abe7-26ff4f7894d7.jpg?v=1758202254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Charms &amp; Pendants<br>
+        <strong>Price: </strong>
+            5000.00 - 10500.00
+            <a href="https://heritagejewels.com.pk/products/pendant-set-ls752">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Chetum, Jade and Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+<li>Size: 0.84/0.50 Inches</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monthly Sale</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/9870471528755</id>
+      <title>With Chain</title>
+      <s:price currency="PKR">10500.00</s:price>
+      <s:sku>LS752</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/9870471528755</id>
+      <title>Without Chain</title>
+      <s:price currency="PKR">5000.00</s:price>
+      <s:sku>LS752</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/10069419295027</id>
+    <published>2026-01-31T18:11:47+05:00</published>
+    <updated>2026-01-31T18:11:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/pendant-set-ls784"/>
+    <title>Majestic meadow</title>
+    <s:type></s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/1A9A1918_d895c72c-f89d-41a5-b64b-31c66293a5b2.jpg?v=1769684689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3500.00 - 8500.00
+            <a href="https://heritagejewels.com.pk/products/pendant-set-ls784">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Cubic Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+<li>Pendant Size:1/0.38 Inches</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monthly Sale</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/10069419295027</id>
+      <title>With Chain</title>
+      <s:price currency="PKR">8500.00</s:price>
+      <s:sku>LS784</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/10069419295027</id>
+      <title>Without Chain</title>
+      <s:price currency="PKR">3500.00</s:price>
+      <s:sku>LS784</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/9870479556915</id>
+    <published>2025-09-19T17:22:52+05:00</published>
+    <updated>2025-09-19T17:22:52+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/pendant-set-ls762"/>
+    <title>Forest Symphony</title>
+    <s:type>Charms &amp; Pendants</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/1A9A1313_767eae32-f54b-4419-9d51-d202b7e96103.jpg?v=1758202619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Charms &amp; Pendants<br>
+        <strong>Price: </strong>
+            3500.00 - 8500.00
+            <a href="https://heritagejewels.com.pk/products/pendant-set-ls762">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Jade and Zircons</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+<li>Size: 0.95/0.46 Inches</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monthly Sale</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/9870479556915</id>
+      <title>With Chain</title>
+      <s:price currency="PKR">8500.00</s:price>
+      <s:sku>LS762</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/9870479556915</id>
+      <title>Without Chain</title>
+      <s:price currency="PKR">3500.00</s:price>
+      <s:sku>LS762</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://heritagejewels.com.pk/products/9627623489843</id>
+    <published>2025-01-24T20:44:06+05:00</published>
+    <updated>2025-01-24T20:44:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://heritagejewels.com.pk/products/pendant-set-ls723"/>
+    <title>Moonlit Bloom</title>
+    <s:type></s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0538/9349/7015/files/1A9A0529_2161cf08-5d21-4f5b-87f0-9b65eba81810.jpg?v=1737632053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4000.00 - 9000.00
+            <a href="https://heritagejewels.com.pk/products/pendant-set-ls723">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Studded with Pearl and Zircons<br>
+</li>
+<li>925 Sterling Silver</li>
+<li>Yellow Gold Electroplated</li>
+</ul>
+<p><span>Heritage jewelry provides top-notch quality in all of its products. Prioritizing customer satisfaction and demands, we give the best after-sale service.</span><br><span>All our Silver Jewellery products are repairable, exchangeable, and refundable on an unlimited-time basis.</span><br></p>
+<p><span>P.s: All products can be customized as per customer requirement</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monthly Sale</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Collections</s:tag>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/9627623489843</id>
+      <title>With Chain</title>
+      <s:price currency="PKR">9000.00</s:price>
+      <s:sku>LS722</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://heritagejewels.com.pk/products/9627623489843</id>
+      <title>Without Chain</title>
+      <s:price currency="PKR">4000.00</s:price>
+      <s:sku>LS722</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
